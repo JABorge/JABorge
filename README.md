@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JABorge
-- 👀 I’m interested in Web Development | Big Data | Machine Learning
-- 🌱 I’m currently learning Machine Learning Topics 
-- 💞️ I’m looking to collaborate on Web Development | Machine Learning Projects 
+- 👀 I’m interested in Web Development | Data Science
+- 🌱 I’m currently learning Data Science Topics 
+- 💞️ I’m looking to collaborate on Web Development | Data Science Projects 
 - 📫 How to reach me: jorgealbertoborge@gmail.com
 
 <!---
