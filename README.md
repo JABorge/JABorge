@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.jorgeborge.com/](https://www.jorgeborge.com/)
 
-- 💬 Ask me about **Django, Flask,**
+- 💬 Ask me about **Django, Flask**
 
 - 📫 How to reach me **jorgealbertoborge@gmail.com**
 
