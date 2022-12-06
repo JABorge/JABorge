@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg]
+[![MasterHead]([![image](https://user-images.githubusercontent.com/60979174/205983602-aac218bf-7339-4682-8140-0424a6b453f1.png)]
 
 <h1 align="center">Hi 👋, I'm Jorge A. Borge</h1>
 <h3 align="center">A passionate Sr. Full Stack Data Scientist</h3>
