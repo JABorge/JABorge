@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/60979174/205983679-700ce350-1811-436d-8c2d-7ccf85198a11.png)
-
 <h1 align="center">Hi 👋, I'm Jorge A. Borge</h1>
 <h3 align="center">A passionate Sr. Full Stack Data Scientist</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/young-black-man-sitting-chair-working-computer-remote-working-home-office-self-isolation-concept-flat-style_285336-1212.jpg?w=2000">
