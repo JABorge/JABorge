@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jorgealbertoborge@gmail.com**
 
-- ⚡ Fun fact **I love hiking, hanging with dog, and watching movies with my girlfriend**
+- ⚡ Fun fact **I love hiking, hanging with my dog, and watching movies with my girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
