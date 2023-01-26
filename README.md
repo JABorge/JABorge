@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge A. Borge</h1>
-<h3 align="center">A passionate Sr. Full Stack Data Scientist</h3>
+<h3 align="center">A passionate Technical Product Manager experienced in Data Science and Full Stack Web Engineering</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/young-black-man-sitting-chair-working-computer-remote-working-home-office-self-isolation-concept-flat-style_285336-1212.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaborge&label=Profile%20views&color=0e75b6&style=flat" alt="jaborge" /> </p>
